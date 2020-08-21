@@ -1,0 +1,14 @@
+This file is very important as it will guide us on how to move ahead. I will work based on the below path. Main topics followed by sub topics:
+a. Python
+  i. Basic Python
+  ii. Pandas
+  iii. Libraries like Numpy, Scikit-Learn, Seaborn
+  iv. Flask, Django
+b. Statistics
+  i. Normal distribution
+  ii. Mean, Mode, Median
+  iii. Center Limit Theorum 
+c. Machine Learning Algorithms
+  i. Regression - Linear, Multiple, Laso, Ridge
+  ii. Random Forest
+d. Deep Learning
